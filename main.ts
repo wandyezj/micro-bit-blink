@@ -1,3 +1,4 @@
+// Sleep (do nothing) for number of milliseconds.
 function sleep (milliseconds: number) {
     stamp = control.millis()
     // current time - previous time = time passed
